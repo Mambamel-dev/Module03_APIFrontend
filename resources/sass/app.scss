@@ -1,0 +1,16 @@
+// Fonts
+//@import url("https://fonts.googleapis.com/css?family=Nunito");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;500;800&display=swap");
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap/scss/bootstrap";
+
+body {
+    width: 100vw;
+    height: 100vh;
+    font-family: "Poppins", sans-serif;
+    // background: rgb(74, 175, 244);
+    background: darksalmon;
+}
